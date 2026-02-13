@@ -1,5 +1,9 @@
 # @copilotkitnext/demo-agents
 
+## 1.51.4-next.7
+
+## 1.51.4-next.6
+
 ## 1.51.4-next.5
 
 ## 1.51.4-next.4

@@ -1,5 +1,24 @@
 # ui
 
+## 1.51.4-next.7
+
+### Patch Changes
+
+- 6b7d8ef: feat(react): apply resource CSP domains to MCP Apps sandbox iframe
+  - @copilotkit/runtime-client-gql@1.51.4-next.7
+  - @copilotkit/shared@1.51.4-next.7
+  - @copilotkitnext/core@1.51.4-next.7
+  - @copilotkitnext/react@1.51.4-next.7
+
+## 1.51.4-next.6
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.51.4-next.6
+- @copilotkit/shared@1.51.4-next.6
+- @copilotkitnext/core@1.51.4-next.6
+- @copilotkitnext/react@1.51.4-next.6
+
 ## 1.51.4-next.5
 
 ### Patch Changes
