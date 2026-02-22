@@ -1,5 +1,20 @@
 # @copilotkit/a2ui-renderer
 
+## 1.52.0-next.6
+
+### Patch Changes
+
+- Updated dependencies [2007f8b]
+- Updated dependencies [5f941db]
+  - @copilotkit/react-core@1.52.0-next.6
+
+## 1.52.0-next.5
+
+### Patch Changes
+
+- Updated dependencies [6dd6c84]
+  - @copilotkit/react-core@1.52.0-next.5
+
 ## 1.51.5-next.4
 
 ### Patch Changes
