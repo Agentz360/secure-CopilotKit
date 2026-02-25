@@ -1,5 +1,24 @@
 # @copilotkitnext/react
 
+## 1.52.0-next.8
+
+### Patch Changes
+
+- 942d397: Add data-testid for easier testing to all CPK UI
+  - @copilotkitnext/core@1.52.0-next.8
+  - @copilotkitnext/shared@1.52.0-next.8
+  - @copilotkitnext/web-inspector@1.52.0-next.8
+
+## 1.52.0-next.7
+
+### Patch Changes
+
+- d77f347: Added in the useInterrupt hook
+- Updated dependencies [d77f347]
+  - @copilotkitnext/core@1.52.0-next.7
+  - @copilotkitnext/web-inspector@1.52.0-next.7
+  - @copilotkitnext/shared@1.52.0-next.7
+
 ## 1.52.0-next.6
 
 ### Patch Changes
